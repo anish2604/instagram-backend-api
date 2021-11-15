@@ -1,2 +1,2 @@
 # instagram-backend-api
-This repository contains sample
+This repository contains similar APIs as used in Instagram Backend.
